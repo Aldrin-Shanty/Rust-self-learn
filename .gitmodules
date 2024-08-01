@@ -1,0 +1,6 @@
+[submodule "hello-world"]
+	path = hello-world
+	url = https://github.com/Aldrin-Shanty/rust-hello-world.git
+[submodule "guessing-game"]
+	path = guessing-game
+	url = https://github.com/Aldrin-Shanty/rust-guessing-game.git
