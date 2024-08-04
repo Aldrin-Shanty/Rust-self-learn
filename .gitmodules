@@ -4,3 +4,6 @@
 [submodule "guessing-game"]
 	path = guessing-game
 	url = https://github.com/Aldrin-Shanty/rust-guessing-game.git
+[submodule "variables"]
+	path = variables
+	url = https://github.com/Aldrin-Shanty/variables.git
